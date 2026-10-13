@@ -5,3 +5,5 @@ I'm Muhammad Hasan.\
 > *"git commit -m "High on boredom."*
 ---
 Featured in: [python-discord/sir-lancebot](https://github.com/python-discord/sir-lancebot), [zishankadri/tetris-bugs](https://github.com/zishankadri/tetris-bugs)
+
+Developing and maintaining custom Discord bots for a community spanning multiple servers.
