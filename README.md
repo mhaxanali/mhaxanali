@@ -6,4 +6,4 @@ I'm Muhammad Hasan.\
 ---
 Featured in: [python-discord/sir-lancebot](https://github.com/python-discord/sir-lancebot), [zishankadri/tetris-bugs](https://github.com/zishankadri/tetris-bugs)
 
-Developing and maintaining custom Discord bots for a community spanning multiple servers.
+Voluntarily developing and maintaining custom Discord bots for a community spanning multiple servers.
